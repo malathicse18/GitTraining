@@ -1,4 +1,8 @@
-Hello Git
+Hello Git   // Saying Formal Hello
 
 Edit : Now I'm coming from GitHub
 
+
+welcome GitHub
+
+I'm practicing git and github
